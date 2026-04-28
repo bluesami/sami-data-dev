@@ -16,12 +16,13 @@
 ---
 
 ### 📌 Focus Areas
-- Backend Development
 - Database Engineering
+- Backend Development
 - API Development with Go
 
 ---
 
 ### 📫 Contact
 - Email: samira.aziznasiri@gmail.com
+- I am open Database & SQL Developer opportunities.
   
